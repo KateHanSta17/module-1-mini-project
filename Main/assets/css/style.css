@@ -7,7 +7,7 @@
 /* Element Selectors */
 body {
   position: relative;
-  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-family: "Alegreya Sans", sans-serif;
   font-size: 20px;
   background-color: #FDF8F5;
   color: #4F4846;
@@ -38,7 +38,7 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #c889e7;
 }
 
 header {
@@ -106,8 +106,28 @@ button {
 /* Class Selectors */
 .text-center {
   text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  color: #c889e7;
 }
 
 .text-right {
   text-align: right;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+}
+.body-core {
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-size: 20px;
+  background-color: #FDF8F5;
+  color: #4F4846;
+}
+
+.body-end {
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-size: 20px;
+  background-color: #c889e7;
+  color: #f0dbfa;
 }
