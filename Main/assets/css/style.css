@@ -131,3 +131,10 @@ button {
   background-color: #c889e7;
   color: #f0dbfa;
 }
+
+#name {
+  background-color: whitesmoke;
+}
+#email {
+  background-color: whitesmoke;
+}
